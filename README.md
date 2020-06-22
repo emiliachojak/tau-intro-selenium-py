@@ -1,3 +1,6 @@
+# NOTE
+This is a fork of a course repository made to learn Selenium with Python
+
 # tau-intro-selenium-py
 This repository contains the companion project for the
 *Introduction to Selenium WebDriver with Python* course
